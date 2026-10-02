@@ -1,0 +1,17 @@
+[
+  {
+    "usuario_id": "admin",
+    "producto_codigo": "P001",
+    "fecha": "2026-10-02T14:38:07"
+  },
+  {
+    "usuario_id": "wilber",
+    "producto_codigo": "P002",
+    "fecha": "2026-10-02T14:38:18"
+  },
+  {
+    "usuario_id": "ana",
+    "producto_codigo": "P003",
+    "fecha": "2026-10-02T14:38:23"
+  }
+]

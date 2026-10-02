@@ -1,0 +1,5 @@
+[
+  {"identificacion": "admin", "nombre": "Administrador", "correo": "admin@restaurante.local", "contrasena": "admin123", "rol": "Administrador"},
+  {"identificacion": "wilber", "nombre": "Wilber Cuellar", "correo": "wilber@restaurante.local", "contrasena": "1234", "rol": "Empleado"},
+  {"identificacion": "ana", "nombre": "Ana García", "correo": "ana@cliente.local", "contrasena": "cliente123", "rol": "Cliente"}
+]
